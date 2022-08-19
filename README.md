@@ -25,7 +25,7 @@ The repository [NPEA/pgam](https://github.com/NPEA/pgam) is an updated fork and 
 
 ## License
 
-GPL (>= 2)
+GPL-3
 
 ## Disclaimer
 
